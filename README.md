@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This is a Front-end boilerplate using  Next.js and Typescript - Configurated with ESlint,Prettier,Tests(RTL)-Jest.
+
+Made over "NextJs na prática" - WJ
+
 ## Getting Started
 
 First, run the development server:
